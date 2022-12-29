@@ -1,0 +1,23 @@
+{
+  "TextBox": 192,
+  "Flex": 174,
+  "Div": 154,
+  "Icon": 4,
+  "Image": 43,
+  "Button": 3,
+  "Step": 1,
+  "Radio": 1,
+  "Menu": 1,
+  "Table": 2,
+  "Accordion": 4,
+  "Alert": 1,
+  "Breadcrumb": 3,
+  "Checkbox": 1,
+  "Cascader": 3,
+  "Countup": 1,
+  "UnorderedList": 6,
+  "Carousel": 6,
+  "Slider": 1,
+  "Link": 1,
+  "Dropdown": 8
+}
